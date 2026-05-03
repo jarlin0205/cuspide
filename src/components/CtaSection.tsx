@@ -15,11 +15,8 @@ export default function CtaSection() {
       <ContactForm />
 
       <div className="hero-btns reveal" style={{ justifyContent: 'center', marginTop: '2.5rem' }}>
-        <a href="mailto:hola@cuspidedigital.co" className="btn-p">
-          <span>hola@cuspidedigital.co</span>
-        </a>
-        <a href="https://wa.me/573000000000" target="_blank" rel="noopener noreferrer" className="btn-s">
-          WhatsApp <span className="arr">→</span>
+        <a href="https://wa.me/573004879915" target="_blank" rel="noopener noreferrer" className="btn-p" style={{ width: 'auto', minWidth: '220px' }}>
+          <span>WhatsApp <span className="arr">→</span></span>
         </a>
       </div>
     </section>

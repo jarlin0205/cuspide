@@ -39,8 +39,7 @@ export default function Footer() {
           <h4>Contacto</h4>
           <ul>
             <li><a href="#">Maicao, La Guajira</a></li>
-            <li><a href="mailto:hola@cuspidedigital.co">hola@cuspidedigital.co</a></li>
-            <li><a href="https://wa.me/573000000000" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+            <li><a href="https://wa.me/573004879915" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
             <li><a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
           </ul>
         </div>
