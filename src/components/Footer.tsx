@@ -48,7 +48,7 @@ export default function Footer() {
 
       <div className="f-bottom">
         <span>© 2025 Cúspide Digital — Todos los derechos reservados</span>
-        <span>Hecho con orgullo en el norte de Colombia 🇨🇴</span>
+        <span>Hecho con orgullo en el norte de Colombia</span>
         <span>Ingenieros Jarlin Esquivel & Carlos Bastidas</span>
       </div>
     </>
